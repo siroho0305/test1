@@ -1,0 +1,27 @@
+.body{
+  width: 1500px;
+  padding-top: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin:0  auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.line1{
+  display: flex;
+}
+
+.size_setting1{
+  padding-left: 50px;
+}
+
+span{
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.active{
+  border: 4px solid black;
+}

@@ -1,0 +1,12 @@
+
+
+.result{
+    width: 100%;
+    font-size: 30px;
+}
+
+.result1{
+    width: 100%;
+    height: auto;
+    border: 3px solid red;
+}

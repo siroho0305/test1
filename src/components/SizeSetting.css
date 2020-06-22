@@ -1,0 +1,27 @@
+.size_setting{
+    width: 500px;
+    border: 1px solid #cccc66;
+    border-radius: 5px;
+}
+
+.header1{
+    font-size:30px;
+    background-color: #cccc66;
+}
+
+.size_setting > button{
+    font-size: 20px;
+    padding-left: 10px;
+    background-color: #66cc99;
+    width: 150px;
+    height: 50px;
+}
+
+.button2{
+    margin-left: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: red;
+}
